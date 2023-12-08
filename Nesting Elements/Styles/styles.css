@@ -1,0 +1,21 @@
+
+.outer-box {
+    background-color: #3498db;
+    padding: 200px;
+    border-radius: 100px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.middle-box {
+    background-color: yellow;
+    padding: 80px;
+    margin-top: 40px;
+    border-radius: 8px;
+}
+
+.inner-box {
+    background-color: #e74c3c;
+    padding: 50px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
